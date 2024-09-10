@@ -7,9 +7,14 @@ Tested on
 
 ## Usage
 
-Run the demo script
+- Inference
 ```sh
 python AP_System.py
+```
+
+- Train ([Link](https://github.com/yangdi-cv/Real-time-Age-Prediction/tree/train))
+```sh
+python python SSRNet_train.py
 ```
 
 [![video](https://github.com/Ericdiii/Real-time-Age-Prediction/blob/demo/image/video.png?raw=true)](https://www.youtube.com/watch?v=pMF8vnfTeaQ "video")
